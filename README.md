@@ -1,7 +1,7 @@
-# Villa de Leyva AI Heritage Guide
+# AI Heritage Guide
 
 An AI-powered multi-agent system that transforms heritage tourism
-in Villa de Leyva, Colo=mbia through contextual narratives,
+in Colombia through contextual narratives,
 personalized recommendations, and augmented reality visualization.
 
 ## Architecture
@@ -26,4 +26,4 @@ Azure Cosmos DB
 ## Team
 •⁠  ⁠[Adolfo Alejandro Tacue Galvis] - full-stack developer
 ## License
-MIT
+AGPL v3
